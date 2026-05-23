@@ -1,0 +1,7 @@
+@import "tailwindcss";
+
+@layer utilities {
+  .bg-header {
+    background-image: url("/bg.jpg");
+  }
+}
